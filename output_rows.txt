@@ -1,0 +1,42 @@
+Agache Marcel   5
+Alexe Adrian  2
+Artimov Vasile  8
+Avram Stefan  7
+Balanuta Sinica  6
+Barbu Adina  7
+Bucur Sorin  6
+Burta Catalin  3
+Burta Dan  3
+Burta George  3
+Burta Ghearghe  1
+Burta Lenuta  1
+Burta Nicu  3
+Burta Vasile  3
+Butza Velicu  5
+Carlan Gabriel  6
+Craciun   7
+Dache Catalin  5
+Dima Florin  4
+Dima Gabi  4
+Doleanu Doru  7
+Dumitrache Ion  3
+Dumitru Micu  7
+Ene Cristian   8
+Gazdaru Aurel  2
+Gherasim Dan  8
+Hari  8
+Jelescu Cristi  4
+Marc Sever  2
+Moraru Tudor  6
+Neacsu Ionel  2
+Ovidiu  8
+Pacaleanu Marius  5
+Pacurici Adi  1
+Peiciu Vasile  6
+Pelivan Ion  2
+Stotu Vasile  5
+Timofte Marinela  1
+Timofte Miluta  1
+Timofte Tania  1
+Vasilev Vasilica  4
+Vasiliev Liuba  4
